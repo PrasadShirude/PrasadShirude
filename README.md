@@ -7,3 +7,5 @@ I'm Developer, Self-leaner, Student
 - 💬 Ask me about programming
 
 <h2>Connect with me:<h2>
+
+  [<img align = "left"  alt = "LinkedIn"  
