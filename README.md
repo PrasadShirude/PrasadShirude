@@ -6,6 +6,6 @@ I'm Developer, Self-leaner, Student
 - 🌱 I’m currently learning Python
 - 💬 Ask me about programming
 
-<h2>Connect with me:<h2>
+### Connect with me:
 
-  [<img align = "left"  alt = "LinkedIn"  
+  [<img align = "left"  alt = "LinkedIn" >]
