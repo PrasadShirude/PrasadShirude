@@ -22,7 +22,7 @@ I'm Developer, Self-leaner, Student
   ###  Languages & Tools:
   
    <img align = "left" alt = "c" width = "25px" src = "c.png" />
-   <img align = "left" alt = "cpp" width = "25px" src = "cpp.png" />
+   <img align = "left" alt = "cpp" width = "25px" src = "cpp.jpg" />
   <img align = "left" alt = "java" width = "25px" src = "java.png" />
   <img align = "left" alt = "py" width = "25px" src = "py.png" />
   <img align = "left" alt = "scala" width = "25px" src = "scala.png" />
