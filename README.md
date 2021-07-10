@@ -8,7 +8,7 @@ I'm Developer, Self-leaner, Student
 
 ### Connect with me:
 
-  [<img align = "left"  alt = "LinkedIn"  width = "22px" src = src="img/linkedIn.png" />][linkedin]
+  [<img align = "left"  alt = "LinkedIn"  width = "22px" src = "linkedIn.png" />][linkedin]
 
   <br/>
   
