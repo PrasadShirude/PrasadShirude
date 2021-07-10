@@ -43,3 +43,7 @@ I'm Developer, Self-leaner, Student
 <img src="border.gif" width="1100px" height="10px">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasadShirude&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadShirude&hide_border=true&theme=merko" width="45%" height="160px">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadShirude&layout=compact&theme=merko" width="45%" height="160px"/>
