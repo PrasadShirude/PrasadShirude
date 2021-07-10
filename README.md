@@ -16,3 +16,9 @@ I'm Developer, Self-leaner, Student
   [linkedin]: https://www.linkedin.com/in/prasad-shirude-90a9b71ba/
   [instagram]: https://www.instagram.com/prasad_9689/
   [twitter]: https://twitter.com/PrasadShirude1
+  
+  <br/>
+  
+  ###  Languages & Tools:
+  
+   <img align = "left" alt = "c" width = "22px" src = "c.png" />
