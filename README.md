@@ -9,3 +9,7 @@ I'm Developer, Self-leaner, Student
 ### Connect with me:
 
   [<img align = "left"  alt = "LinkedIn"  width = "22px" src = src="img/linkedIn.png" />][linkedin]
+
+  <br/>
+  
+  [linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
