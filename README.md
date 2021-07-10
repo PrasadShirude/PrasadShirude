@@ -39,3 +39,7 @@ I'm Developer, Self-leaner, Student
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <br />
+
+<img src="border.gif" width="1100px" height="10px">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasadShirude&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
