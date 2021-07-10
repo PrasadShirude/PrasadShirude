@@ -9,7 +9,8 @@ I'm Developer, Self-leaner, Student
 ### Connect with me:
 
   [<img align = "left"  alt = "LinkedIn"  width = "22px" src = "linkedIn.png" />][linkedin]
-  [<img align = "left"  alt = "Instagram"/>]
+  [<img align = "left"  alt = "Instagram" width = "22px" src ="instagram.png"/>][instagram]
   <br/>
   
   [linkedin]: https://www.linkedin.com/in/prasad-shirude-90a9b71ba/
+  [instagram]: https://www.instagram.com/prasad_9689/
