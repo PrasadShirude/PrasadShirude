@@ -12,4 +12,4 @@ I'm Developer, Self-leaner, Student
 
   <br/>
   
-  [linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
+  [linkedin]: https://www.linkedin.com/in/prasad-shirude-90a9b71ba/
