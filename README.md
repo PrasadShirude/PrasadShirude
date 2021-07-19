@@ -3,7 +3,7 @@
 I'm Developer, Self-leaner, Student
 
 - 🔭 I’m currently pursuing MSc. Computer Science
-- 🌱 I’m currently learning JavaScript/Angular
+- 🌱 I’m currently learning TypeScript, JavaScript, Angular, NodeJS
 - 💬 Ask me about programming
 
 ### Connect with me:
