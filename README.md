@@ -26,6 +26,7 @@ I'm Developer, Self-leaner, Student
   <img align = "left" alt = "java" width = "25px" src = "java.png" />
   <img align = "left" alt = "py" width = "25px" src = "py.png" />
   <img align="left" alt="scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
+<img align = "left" alt = "Typescript" width = "26px" src = "Typescript_Logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
